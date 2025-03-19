@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Logs
+*.log
+
+# macOS specific files
+.DS_Store
+
+# Output directories
+*-markdown/
+*-fixed-markdown/
+
+# Temporary files
+*.tmp
